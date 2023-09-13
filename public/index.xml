@@ -5,5 +5,16 @@
     <link>https://erlingrj.github.io/</link>
     <description>Recent content on Erling Rennemo Jellum</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://erlingrj.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://erlingrj.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erlingrj.github.io/projects/</guid>
+      <description>Current projects 1. Lingua Franca I am an active contributor to the Lingua Franca project. Lingua Franca is a polyglot coordination language for concurrent, time-sensitive applications.
+2. PRET machines I am interested in time-predictable CPU architectures. I am currently working on InterPRET a time-predictable multi-core CPU.
+3. HW/SW codesign I am also working on languages and frameworks for hardware-software codesign targeting SoC FPGAs. Check out fpga-tidbits and reactor-chisel </description>
+    </item>
+    
   </channel>
 </rss>
