@@ -18,7 +18,6 @@ menu:
 params:
     description: "I am a PhD candidate at the Norwegian University of Science and Technology working on hardware and software systems for real-time computing"
     author: Erling Rennemo Jellum
-    googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
