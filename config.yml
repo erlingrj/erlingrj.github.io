@@ -39,7 +39,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          subtitle: "I am a PhD candidate at the Norwegian University of Science and Technology working on hardware and software systems for real-time computing."
+          subtitle: "I am a researcher and engineer working on real-time software and hardware."
           title: Erling Rennemo Jellum
           imageUrl: "/picture.jpg"
           imageWidth: 160
@@ -50,7 +50,7 @@ params:
               url: /projects
     socialIcons:
         - name: Email
-          url: mailto:erling.r.jellum@ntnu.no
+          url: mailto:erling@duck.com
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=00W_DgkAAAAJ&hl=no
         - name: GitHub
