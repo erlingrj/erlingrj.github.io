@@ -16,7 +16,7 @@ menu:
         weight: 1
 
 params:
-    description: "I am a PhD candidate at the Norwegian University of Science and Technology working on hardware and software systems for real-time computing"
+    description: "I am a Postdoc at the iCyPhy lab at UC Berkeley, working on hardware and software for predictable cyber-physical systems"
     author: Erling Rennemo Jellum
     DateFormat: "January 2006"
     defaultTheme: light
@@ -54,7 +54,7 @@ params:
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=00W_DgkAAAAJ&hl=no
         - name: GitHub
-          url: https://github.com/erlingrj?tab=repositories
+          url: https://github.com/erlingrj
 
     assets:
         disableHLJS: true
